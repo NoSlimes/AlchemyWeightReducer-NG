@@ -1,0 +1,16 @@
+{
+  "name": "alchemy-weight-reducer-ng",
+  "version-string": "0.1.0",
+  "builtin-baseline": "8235a7aece54307d71f711944d6339dd6dccd50c",
+  "dependencies": [
+    "directxmath",
+    "directxtk",
+    "fmt",
+    "nlohmann-json",
+    "rapidcsv",
+    "simpleini",
+    "spdlog",
+    "toml11",
+    "xbyak"
+  ]
+}
