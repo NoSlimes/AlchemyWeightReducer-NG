@@ -19,8 +19,15 @@ A lightweight, native SKSE plugin (`CommonLibSSE-NG`) that automatically adjusts
 2. *(Optional)* Edit `SKSE/Plugins/AlchemyWeightReducer.ini` to customize weights, switch to `Multiply` mode, or disable categories.
 
 ## Building from Source
-Requires Visual Studio (C++23), CMake, and `vcpkg` (with `VCPKG_ROOT` set):
+Requires Visual Studio (C++23), CMake, and `vcpkg`:
 ```powershell
 git clone --recursive https://github.com/NoSlimes/AlchemyWeightReducer-NG.git
 cd AlchemyWeightReducer-NG
 build.cmd x64-release
+```
+---
+
+## Third-Party Notices & License
+* Licensed under **GNU GPL v3.0-or-later** (see [LICENSE](LICENSE)).
+* Built with [CommonLibSSE-NG](https://github.com/alandtse/CommonLibSSE-NG) (GPL-3.0-or-later).
+* Uses [SimpleIni](https://github.com/brofield/simpleini) (MIT License).
