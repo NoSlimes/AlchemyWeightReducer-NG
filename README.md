@@ -2,6 +2,9 @@
 
 A lightweight, native SKSE plugin (`CommonLibSSE-NG`) that automatically adjusts the weight of **all** ingredients, potions, poisons, and (optionally) food—including items added by mods and player-crafted potions.
 
+<img width="1106" height="1307" alt="image" src="https://github.com/user-attachments/assets/e1397922-28d9-4820-9a01-56ae387778c6" />
+
+
 ### Default Weights
 | Category | Default Mode | Default Weight |
 | :--- | :--- | :--- |
